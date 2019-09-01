@@ -12,3 +12,7 @@ Constraints (externally imposed limitations on system requirements, design, or i
 Assumptions (things that are accepted as true or as certain to happen, without proof)</br>
 Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)</br>
 Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)</br>
+
+
+Problem statement: </br>
+How can I create a program that allows users to get exact statistics from surveys?
