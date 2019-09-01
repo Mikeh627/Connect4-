@@ -15,4 +15,5 @@ Timelines (for software, a breakdown of high level goals like from the Product B
 
 
 Problem statement: </br>
-How can I create a program that allows users to get exact statistics from surveys?
+How can I create a program that allows users to get exact statistics from surveys? </be>
+Make it simple to use but complicated enough for users to input options and answers to options as well as their question or survey.
