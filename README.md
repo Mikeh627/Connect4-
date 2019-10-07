@@ -21,3 +21,5 @@ Make it simple to use but complicated enough for users to input options and answ
 
 
 10/1: Decided on making connect 4 in python.
+
+Problem statement: How can I write connect 4 in the python language?
