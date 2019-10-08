@@ -1,2 +1,20 @@
-To help me write a game, I will be using python packages or one in particular to create this connect 4 game. numpy is an array, 
+1) To help me write a game, I will be using python packages or one in particular to create this connect 4 game. numpy is an array, 
 it will help with complext algorithms while writing connect 4
+
+2) So after figuring out how to install numpy thanks to helpful tutorials, we can move onto creating the game and to start we will
+import the package. "import numpy as np" the "as" statement will allow us to use numpy's scripts without having to type "numpy" out
+overall giving the coded a cleaner look.
+
+3) Now there is a major question that arises, where to start? Well a quick google images search of connect 4 gives us alot of what we
+need, connect for is a game consisting of 6 rows and 7 columns. Here is where we will begin.
+
+The code used for importing this board: 
+            def create_board():  <-- defining what the board is
+                board = np.zeros((6,7))  <--- (rows, columns)
+                return board 
+we can test to see if we are returned a matrix by simply asking python to print it for us:
+
+if we set board = to create.board()
+then print(board)
+
+4)
