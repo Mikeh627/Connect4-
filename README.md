@@ -14,11 +14,6 @@ Stakeholders (individuals or organizations having a right, share, claim, or inte
 Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)</br>
 
 
-Problem statement: </br>
-How can I create a program that allows users to get exact statistics from surveys? </be>
-Make it simple to use but complicated enough for users to input options and answers to options as well as their question or survey.
-
-
 
 10/1: Decided on making connect 4 in python.
 
