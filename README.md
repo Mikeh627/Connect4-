@@ -18,3 +18,13 @@ Timelines (for software, a breakdown of high level goals like from the Product B
 10/1: Decided on making connect 4 in python.
 
 Problem statement: How can I write connect 4 in the python language?
+
+10/4: Spent all day searching for a way to integrate a matrix into python. Found a pip called numpy that allows for this.
+10/5: Installing packages isnt the easist I found, at least for a beginner. I did manage to figure it out on the windows platform. by creating a '.bat' file in the python 37 folder.
+
+10/8: I have gotten most of the matrix based game down. I continue to tweak the program.
+
+10/10: I have gotten the code all finish so that the game is fully functioning. It is a bit plain, so I will look to add color to the pieces so that its a bit more colorful and fun.
+
+10/15: I finally figured out why numpy wouldnt install to my python 3.7 on my mac. It is because that Mac osx comes with python 2.7 in its system so using the "pip install nuympy" in the terminal installs it to the older version. but if we tweak this command slightly we can get it to install to our 3.7 python by typing the following "pip3 install numpy". I will be using this to also install pygame which I am hoping will make the more pleasing to the eye.
+
