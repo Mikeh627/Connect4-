@@ -62,7 +62,7 @@ turn = 0
 
 while not game_over :
     if turn == 0:
-        column = int(input("Player 1 drop your piece (0,6): "))
+        column = int(input("Player 1 drop your piece (0,6): "))         # this whole if statement goes between player one and player two, until someone connects 4
         
         if is_valid(board, column):
             row = get_next_open_row(board, column)
@@ -88,10 +88,10 @@ while not game_over :
                 print("Move is not valid")
         
             if final_blow(board, 2):
-                print("Game over..\nPlayer 2 wins!!!")
+                print("Game over..\nPlayer 2 wins!!!")          # this will allow us to display whenever someone connects 4 :D
                 game_over = True
                  
     print_board(board)
 
     turn += 1
-    turn = turn % 2
+    turn = turn % 2             # these 2 "functions" if you will allow us to tell the program whose turn it is.
