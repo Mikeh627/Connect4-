@@ -28,3 +28,5 @@ Problem statement: How can I write connect 4 in the python language?
 
 10/15: I finally figured out why numpy wouldnt install to my python 3.7 on my mac. It is because that Mac osx comes with python 2.7 in its system so using the "pip install nuympy" in the terminal installs it to the older version. but if we tweak this command slightly we can get it to install to our 3.7 python by typing the following "pip3 install numpy". I will be using this to also install pygame which I am hoping will make the more pleasing to the eye.
 
+
+lots of inspiration from https://www.youtube.com/watch?v=XpYz-q1lxu8&list=LLx5o_MqC1lGQopdpJcSFE-Q&index=4&t=509s
