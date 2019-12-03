@@ -1,4 +1,4 @@
-# Friendly-Enigma
+# Connect4 in python
 You are expected to spend at least 2-3 hours outside of class on this project per week for the next 12 weeks. Keep a log of how much time you spent on the project and what you learned. </br>
 
 Save everything to GitHub and submit a link to your repository once a month.</br>
